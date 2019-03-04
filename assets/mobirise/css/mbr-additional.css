@@ -1384,7 +1384,7 @@ body {
   }
 }
 .cid-rj5hskHxIh {
-  background-image: url("../../../assets/images/4773f984-b952-4c2b-bb23-3d8da22b70b0-2000x1435.jpg");
+  background-image: url("../../../assets/images/mobirise-6-43-2000x1435.jpg");
 }
 .cid-rj5hskHxIh H1 {
   text-align: left;
@@ -1589,5 +1589,34 @@ body {
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
+  }
+}
+.cid-rjKj3vwEzd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rjKj3vwEzd P {
+  color: #767676;
+}
+.cid-rjKjiW64kD {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 60px;
+}
+.cid-rjKjiW64kD .image-block {
+  margin: auto;
+}
+.cid-rjKjiW64kD figcaption {
+  position: relative;
+}
+.cid-rjKjiW64kD figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rjKjiW64kD .image-block {
+    width: 100% !important;
   }
 }
